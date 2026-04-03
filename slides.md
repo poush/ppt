@@ -1,6 +1,6 @@
 ---
 theme: default
-background: /public/bike.png
+background: /bike.png
 title: Comment faire du vélo à Paris
 class: text-center
 drawings:
@@ -99,13 +99,13 @@ layout: two-cols-header
 
 ::left::
 
-<img src="/public/speed1.png" alt="Vélo à Paris" style="height: 100%; border-radius: 10px;" />
+<img src="/speed1.png" alt="Vélo à Paris" style="height: 100%; border-radius: 10px;" />
 
 ::right::
 
 # Right
 
-<img src="/public/speed2.png" alt="Vélo à Paris" style="height: 100%; width: 100%; border-radius: 10px;" />
+<img src="/speed2.png" alt="Vélo à Paris" style="height: 100%; width: 100%; border-radius: 10px;" />
 
 <style>
 .two-cols-header {
@@ -119,17 +119,17 @@ layout: quote
 je blague
 ---
 layout: image
-image: /public/beau.png
+image: /beau.png
 backgroundSize: contain
 ---
 ---
 layout: image
-image: /public/show1.jpg
+image: /show1.jpg
 backgroundSize: contain
 ---
 ---
 layout: image
-image: /public/show2.jpg
+image: /show2.jpg
 backgroundSize: contain
 ---
 ---
